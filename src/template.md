@@ -6,13 +6,17 @@ Date: DATE
 
 STATUS
 
-## Context
+## Context and Problem Statement
 
 The issue motivating this decision, and any context that influences or constrains the decision.
 
+## Considered Options
+
+The change options that we're proposing.
+
 ## Decision
 
-The change that we're proposing or have agreed to implement.
+The change that we have agreed to implement.
 
 ## Consequences
 

@@ -6,9 +6,14 @@ Date: DATE
 
 Accepted
 
-## Context
+## Context and Problem Statement
 
 We need to record the architectural decisions made on this project.
+
+## Considered Options
+
+* Sticky notes on a wall
+* examples from [Joel Parker Henderson's repo](https://github.com/joelparkerhenderson/architecture_decision_record)
 
 ## Decision
 
